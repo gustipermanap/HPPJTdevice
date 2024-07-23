@@ -1,0 +1,11 @@
+13:49:47.220 INFO    thonny: Thonny version: 4.0.1
+13:49:47.230 INFO    thonny: cwd: /usr/lib/python3/dist-packages
+13:49:47.598 INFO    thonny: original argv: ['/usr/bin/python3', '-u', '-B', '-m', 'thonny.plugins.cpython_backend.cp_launcher', '/home/hepi']
+13:49:47.611 INFO    thonny: sys.executable: /usr/bin/python3
+13:49:47.623 INFO    thonny: sys.argv: ['/usr/lib/python3/dist-packages/thonny/plugins/cpython_backend/cp_launcher.py', '/home/hepi']
+13:49:47.633 INFO    thonny: sys.path: ['/usr/lib/python3/dist-packages', '/usr/lib/python39.zip', '/usr/lib/python3.9', '/usr/lib/python3.9/lib-dynload', '/usr/local/lib/python3.9/dist-packages', '/usr/lib/python3/dist-packages', '/usr/lib/python3.9/dist-packages']
+13:49:47.637 INFO    thonny: sys.flags: sys.flags(debug=0, inspect=0, interactive=0, optimize=0, dont_write_bytecode=1, no_user_site=0, no_site=0, ignore_environment=0, verbose=0, bytes_warning=0, quiet=0, hash_randomization=1, isolated=0, dev_mode=False, utf8_mode=0)
+13:49:47.657 INFO    thonny: TIME/MODS 1.853 Before constructing backend (+7 modules)
+13:49:47.664 INFO    thonny: NEW MODS ['_ctypes', '_struct', 'ctypes', 'ctypes._endian', 'encodings.ascii', 'faulthandler', 'struct']
+13:49:47.671 INFO    thonny: TIME/MODS 0.015 Before MainBackend 
+13:49:47.681 INFO    thonny: TIME/MODS 0.009 After MainBackend 

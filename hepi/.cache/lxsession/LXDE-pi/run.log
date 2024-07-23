@@ -1,0 +1,149 @@
+** Message: 14:21:18.695: environement.vala:58: Exporting primary_variable
+** Message: 14:21:18.696: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 14:21:18.696: environement.vala:150: confir_dirs is null, export : /etc/xdg
+** Message: 14:21:18.700: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 14:21:18.700: environement.vala:218: custom_data :
+** Message: 14:21:18.702: environement.vala:219: data_dirs :/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+** Message: 14:21:18.702: environement.vala:220: data_dirs not null, export : /usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+** Message: 14:21:18.710: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 14:21:18.724: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 14:21:18.742: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 14:21:18.743: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 14:21:18.744: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 14:21:18.745: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:757): WARNING **: 14:21:18.791: utils.vala:70: Tidak ada berkas atau direktori seperti itu
+** Message: 14:21:18.792: settings.vala:540: Berkas kunci tidak memiliki kunci "iGtk/ColorScheme" dalam kelompok "GTK"
+** Message: 14:21:18.797: settings.vala:540: Berkas kunci tidak memiliki kunci "windows_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.797: settings.vala:540: Berkas kunci tidak memiliki kunci "panel/command" dalam kelompok "Session"
+** Message: 14:21:18.808: settings.vala:540: Berkas kunci tidak memiliki kunci "dock/command" dalam kelompok "Session"
+** Message: 14:21:18.809: settings.vala:540: Berkas kunci tidak memiliki kunci "file_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.814: settings.vala:540: Berkas kunci tidak memiliki kunci "desktop_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.819: settings.vala:540: Berkas kunci tidak memiliki kunci "launcher_manager/autostart" dalam kelompok "Session"
+** Message: 14:21:18.820: settings.vala:540: Berkas kunci tidak memiliki kunci "composite_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.827: settings.vala:540: Berkas kunci tidak memiliki kunci "im1/command" dalam kelompok "Session"
+** Message: 14:21:18.827: settings.vala:540: Berkas kunci tidak memiliki kunci "im2/command" dalam kelompok "Session"
+** Message: 14:21:18.832: settings.vala:540: Berkas kunci tidak memiliki kunci "widget1/command" dalam kelompok "Session"
+** Message: 14:21:18.832: settings.vala:540: Berkas kunci tidak memiliki kunci "notification/command" dalam kelompok "Session"
+** Message: 14:21:18.838: settings.vala:540: Berkas kunci tidak memiliki kunci "keybindings/command" dalam kelompok "Session"
+** Message: 14:21:18.840: settings.vala:540: Berkas kunci tidak memiliki kunci "im_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.841: settings.vala:540: Berkas kunci tidak memiliki kunci "screensaver/command" dalam kelompok "Session"
+** Message: 14:21:18.847: settings.vala:540: Berkas kunci tidak memiliki kunci "power_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.847: settings.vala:540: Berkas kunci tidak memiliki kunci "audio_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.848: settings.vala:540: Berkas kunci tidak memiliki kunci "workspace_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.848: settings.vala:540: Berkas kunci tidak memiliki kunci "screenshot_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.849: settings.vala:540: Berkas kunci tidak memiliki kunci "message_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.849: settings.vala:540: Berkas kunci tidak memiliki kunci "upgrade_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.850: settings.vala:540: Berkas kunci tidak memiliki kunci "updates_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.850: settings.vala:540: Berkas kunci tidak memiliki kunci "updates_manager/timeout" dalam kelompok "Session"
+** Message: 14:21:18.851: settings.vala:540: Berkas kunci tidak memiliki kunci "crash_manager/command" dalam kelompok "Session"
+** Message: 14:21:18.876: settings.vala:540: Berkas kunci tidak memiliki kunci "crash_manager/dev_mode" dalam kelompok "Session"
+** Message: 14:21:18.876: settings.vala:540: Berkas kunci tidak memiliki kunci "crash_manager/timeout" dalam kelompok "Session"
+** Message: 14:21:18.877: settings.vala:540: Berkas kunci tidak memiliki kunci "upstart_user_session" dalam kelompok "Session"
+** Message: 14:21:18.877: settings.vala:540: Berkas kunci tidak memiliki kunci "proxy_manager/http" dalam kelompok "Session"
+** Message: 14:21:18.878: settings.vala:540: Berkas kunci tidak memiliki kunci "a11y/command" dalam kelompok "Session"
+** Message: 14:21:18.878: settings.vala:540: Berkas kunci tidak memiliki kunci "xrandr/command" dalam kelompok "Session"
+** Message: 14:21:18.879: settings.vala:540: Berkas kunci tidak memiliki kunci "network_gui/command" dalam kelompok "Session"
+** Message: 14:21:18.879: settings.vala:540: Berkas kunci tidak memiliki kunci "webbrowser/command" dalam kelompok "Session"
+** Message: 14:21:18.879: settings.vala:540: Berkas kunci tidak memiliki kunci "email/command" dalam kelompok "Session"
+** Message: 14:21:18.880: settings.vala:540: Berkas kunci tidak memiliki kunci "pdf_reader/command" dalam kelompok "Session"
+** Message: 14:21:18.880: settings.vala:540: Berkas kunci tidak memiliki kunci "video_player/command" dalam kelompok "Session"
+** Message: 14:21:18.881: settings.vala:540: Berkas kunci tidak memiliki kunci "audio_player/command" dalam kelompok "Session"
+** Message: 14:21:18.881: settings.vala:540: Berkas kunci tidak memiliki kunci "image_display/command" dalam kelompok "Session"
+** Message: 14:21:18.881: settings.vala:540: Berkas kunci tidak memiliki kunci "text_editor/command" dalam kelompok "Session"
+** Message: 14:21:18.882: settings.vala:540: Berkas kunci tidak memiliki kunci "archive/command" dalam kelompok "Session"
+** Message: 14:21:18.882: settings.vala:540: Berkas kunci tidak memiliki kunci "charmap/command" dalam kelompok "Session"
+** Message: 14:21:18.883: settings.vala:540: Berkas kunci tidak memiliki kunci "calculator/command" dalam kelompok "Session"
+** Message: 14:21:18.883: settings.vala:540: Berkas kunci tidak memiliki kunci "spreadsheet/command" dalam kelompok "Session"
+** Message: 14:21:18.884: settings.vala:540: Berkas kunci tidak memiliki kunci "bittorent/command" dalam kelompok "Session"
+** Message: 14:21:18.884: settings.vala:540: Berkas kunci tidak memiliki kunci "document/command" dalam kelompok "Session"
+** Message: 14:21:18.885: settings.vala:540: Berkas kunci tidak memiliki kunci "webcam/command" dalam kelompok "Session"
+** Message: 14:21:18.885: settings.vala:540: Berkas kunci tidak memiliki kunci "burn/command" dalam kelompok "Session"
+** Message: 14:21:18.911: settings.vala:540: Berkas kunci tidak memiliki kunci "notes/command" dalam kelompok "Session"
+** Message: 14:21:18.912: settings.vala:540: Berkas kunci tidak memiliki kunci "disk_utility/command" dalam kelompok "Session"
+** Message: 14:21:18.912: settings.vala:540: Berkas kunci tidak memiliki kunci "tasks/command" dalam kelompok "Session"
+** Message: 14:21:18.913: settings.vala:540: Berkas kunci tidak memiliki grup "Keymap"
+** Message: 14:21:18.913: settings.vala:540: Berkas kunci tidak memiliki kunci "laptop_mode" dalam kelompok "State"
+** Message: 14:21:18.914: settings.vala:540: Berkas kunci tidak memiliki kunci "gnome" dalam kelompok "Dbus"
+** Message: 14:21:18.914: settings.vala:540: Berkas kunci tidak memiliki kunci "type" dalam kelompok "Environment"
+** Message: 14:21:18.915: settings.vala:540: Berkas kunci tidak memiliki kunci "ubuntu_menuproxy" dalam kelompok "Environment"
+** Message: 14:21:18.916: settings.vala:540: Berkas kunci tidak memiliki kunci "toolkit_integration" dalam kelompok "Environment"
+** Message: 14:21:18.918: settings.vala:540: Berkas kunci tidak memiliki kunci "gtk/overlay_scrollbar_disable" dalam kelompok "Environment"
+** Message: 14:21:18.919: settings.vala:540: Berkas kunci tidak memiliki kunci "qt/force_theme" dalam kelompok "Environment"
+** Message: 14:21:18.919: settings.vala:540: Berkas kunci tidak memiliki kunci "qt/platform" dalam kelompok "Environment"
+** Message: 14:21:18.934: settings.vala:462: Monitoring: /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 14:21:18.935: settings.vala:470: Desktop file is not in config home, monitoring creation of it
+** Message: 14:21:18.951: settings.vala:485: Monitoring home path: /home/hepi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: 14:21:18.952: environement.vala:79: Exporting variable
+** Message: 14:21:18.952: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 14:21:18.953: environement.vala:177: custom_config :
+** Message: 14:21:18.953: environement.vala:178: config_dirs :/etc/xdg
+** Message: 14:21:18.953: environement.vala:179: confir_dirs not null, export : /etc/xdg
+** Message: 14:21:18.954: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 14:21:18.954: environement.vala:218: custom_data :
+** Message: 14:21:18.954: environement.vala:219: data_dirs :/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+** Message: 14:21:18.955: environement.vala:220: data_dirs not null, export : /usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+** Message: 14:21:18.955: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 14:21:18.956: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 14:21:18.957: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:757): WARNING **: 14:21:18.961: utils.vala:70: Tidak ada berkas atau direktori seperti itu
+** Message: 14:21:18.961: environement.vala:254: No entry in [Environment_variable]. Berkas kunci tidak memiliki grup "Environment_variable"
+
+** (lxsession:757): WARNING **: 14:21:19.036: process.vala:49: Gagal menjalankan proses anak "xprop" (Tidak ada berkas atau direktori seperti itu)
+
+** (lxsession:757): WARNING **: 14:21:19.037: process.vala:50: Error when launching xprop
+** Message: 14:21:19.037: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 14:21:19.038: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 14:21:19.038: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 14:21:19.038: options.vala:164: Activate xsettings_manager build-in
+** Message: 14:21:19.039: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 14:21:19.039: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:757): WARNING **: 14:21:19.041: utils.vala:70: Tidak ada berkas atau direktori seperti itu
+** Message: 14:21:19.438: app.vala:728: polkit separate
+** Message: 14:21:19.439: app.vala:728: polkit separate
+** Message: 14:21:19.521: app.vala:76: Launching lxpolkit 
+** Message: 14:21:19.522: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 14:21:19.522: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 14:21:19.523: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 14:21:19.523: autostart.vala:42: Autostart path : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 14:21:19.725: app.vala:76: Launching lxpanel 
+** Message: 14:21:19.933: app.vala:76: Launching pcmanfm 
+
+** (lxsession:757): WARNING **: 14:21:20.262: app.vala:86: Gagal menjalankan proses anak "xscreensaver" (Tidak ada berkas atau direktori seperti itu)
+
+** (lxsession:757): WARNING **: 14:21:20.263: app.vala:87: Error when launching xscreensaver
+** Message: 14:21:20.326: options.vala:107: Create build-in Clipboard
+** Message: 14:21:20.406: main.vala:450: Check keymap_mode (null)
+** Message: 14:21:20.555: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-wGqJgB1OttCh/agent.1023; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=1042; export SSH_AGENT_PID;
+echo Agent pid 1042;
+** Message: 14:21:24.755: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: 14:22:06.538: x-terminal-emulator has very limited support, consider choosing another terminal
+
+** (pcmanfm:1018): WARNING **: 14:22:07.508: The directory '/home/hepi/Templates' doesn't exist, ignoring it
+** Message: 14:22:12.436: x-terminal-emulator has very limited support, consider choosing another terminal
+
+** (lxpanel:1017): WARNING **: 14:22:12.721: The directory '/home/hepi/Templates' doesn't exist, ignoring it
+grep: /home/hepi/.config/lxpanel/LXDE-pi/panels/*: Tidak ada berkas atau direktori seperti itu
+** Message: 14:22:56.719: netman: network manager service not running; plugin hidden
+** Message: 14:22:58.562: Connecting ...
+** Message: 14:22:58.565: Status changed to down
+
+** (lxpanel:1017): CRITICAL **: 14:22:58.579: dhcpcd_open: Tidak ada berkas atau direktori seperti itu
+xrandr: Failed to get size of gamma for output default
+** Message: 14:23:09.637: ptbatt: battery 0 not found
+** Message: 14:23:11.864: Status changed to opened
+** Message: 14:23:11.865: Connected to dhcpcd-8.1.2
+** Message: 14:23:12.002: Status changed to connected
+** Message: 14:23:12.002: wlan0: Associated with PBJT Office
+** Message: 14:23:12.004: wlan0: Configured 192.168.26.185/24
+** Message: 14:23:12.482: wlan0: WPA status connected
+** Message: 14:23:35.531: up: Checking for updates
+** Message: 14:25:40.890: up: Cache updated - comparing versions
+** Message: 14:27:25.886: up: Check complete - 102 updates available
+XIO:  fatal IO error 4 (Pemanggilan sistem terinterupsi) on X server ":0"
+      after 14495 requests (14495 known processed) with 1 events remaining.

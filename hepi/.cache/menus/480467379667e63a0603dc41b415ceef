@@ -1,0 +1,1508 @@
+1.2
+lxde-pi-applications.menu+hidden
+18
+D/home/hepi/.local/share/desktop-directories
+D/usr/share/fkms/desktop-directories
+D/usr/local/share/desktop-directories
+D/usr/share/raspi-ui-overrides/desktop-directories
+D/usr/share/desktop-directories
+D/usr/share/gdm/desktop-directories
+D/var/lib/menu-xdg/desktop-directories
+D/home/hepi/.local/share/applications
+D/usr/share/fkms/applications
+D/usr/local/share/applications
+D/usr/share/raspi-ui-overrides/applications
+D/usr/share/applications
+D/usr/share/gdm/applications
+D/var/lib/menu-xdg/applications
+D/etc/xdg/menus/applications-merged
+D/home/hepi/.config/menus/applications-merged
+F/home/hepi/.config/menus/lxde-pi-applications.menu
+F/etc/xdg/menus/lxde-pi-applications.menu
+MATE;
++Applications
+Aplikasi
+Aplikasi
+applications-other
+lxde-menu-applications.directory
+4
+0
++Development
+Pemrograman
+Perkakas untuk pengembangan perangkat lunak
+applications-development
+lxde-development.directory
+4
+0
+-bluej.desktop
+BlueJ Java IDE
+A simple powerful Java IDE
+bluej
+
+10
+
+bluej
+0
+0
+bluej
+
+Application;Development
+
+-geany.desktop
+Geany
+Sebuah IDE yang cepat dan ringan menggunakan GTK2 
+geany
+
+10
+Integrated Development Environment
+geany %F
+2
+0
+geany
+
+GTK;Development;IDE
+
+-greenfoot.desktop
+Greenfoot Java IDE
+A simple Java IDE and animation framework
+greenfoot
+
+10
+
+greenfoot
+0
+0
+greenfoot
+
+Application;Development
+
+-idle-python2.7.desktop
+IDLE (using Python-2.7)
+Integrated Development Environment for Python (using Python-2.7)
+python
+
+10
+
+/usr/bin/idle-python2.7
+6
+0
+
+
+Application;Development
+
+-idle-python3.2.desktop
+IDLE (using Python-3.2)
+Integrated Development Environment for Python (using Python-3.2)
+python
+
+10
+
+/usr/bin/idle-python3.2
+6
+0
+
+
+Application;Development
+
+-idle-python3.4.desktop
+IDLE (using Python-3.4)
+Integrated Development Environment for Python (using Python-3.4)
+python
+
+10
+
+/usr/bin/idle-python3.4
+6
+0
+
+
+Application;Development
+
+-idle-python3.5.desktop
+IDLE (using Python-3.5)
+Integrated Development Environment for Python (using Python-3.5)
+python
+
+10
+
+/usr/bin/idle-python3.5
+6
+0
+
+
+Application;Development
+
+-idle.desktop
+Python 2 (IDLE)
+Integrated development environment for Python 2
+python
+
+10
+
+/usr/bin/idle
+6
+0
+/usr/bin/idle
+
+Application;Development
+
+-idle-python3.7.desktop
+Python 3 (IDLE)
+Integrated development environment for Python 3
+python
+
+10
+
+/usr/bin/idle-python3.7
+2
+0
+/usr/bin/idle-python3.7
+
+Application;Development
+
+-idle3.desktop
+Python 3 (IDLE)
+Integrated development environment for Python 3
+python
+
+10
+
+/usr/bin/idle3
+2
+0
+/usr/bin/idle3
+
+Application;Development
+
+-python3.9.desktop
+Python (v3.9)
+Python Interpreter (v3.9)
+/usr/share/pixmaps/python3.9.xpm
+
+11
+
+/usr/bin/python3.9
+7
+0
+
+
+Development
+
+-scratch.desktop
+Scratch
+Programming system and content development tool
+scratch
+
+10
+
+scratch
+0
+0
+scratch
+
+Application;Development
+
+-squeak.desktop
+Squeak
+Programming system and content development tool
+/usr/share/pixmaps/squeak.png
+
+10
+
+squeak
+4
+0
+squeak
+
+Application;Education;Development
+
+-org.thonny.Thonny.desktop
+Thonny
+Python IDE for beginners
+thonny
+
+11
+Python IDE
+/usr/bin/thonny %F
+0
+0
+
+
+Development;IDE
+programming,education
+
++Education
+Pendidikan
+
+applications-science
+lxde-education.directory
+4
+0
+-squeak.desktop
+Squeak
+Programming system and content development tool
+/usr/share/pixmaps/squeak.png
+
+10
+
+squeak
+4
+0
+squeak
+
+Application;Education;Development
+
+
++Office
+Perkantoran
+Aplikasi Perkantoran
+applications-office
+lxde-office.directory
+4
+0
+-libreoffice-startcenter.desktop
+LibreOffice
+Paket aplikasi kantor ini kompatibel dengan format dokumen ODF. Didukung oleh The Document Foundation.
+libreoffice-startcenter
+
+10
+Perkantoran
+libreoffice %U
+6
+0
+
+
+Office;X-Red-Hat-Base;X-SuSE-Core-Office;X-MandrivaLinux-Office-Other
+
+-libreoffice-draw.desktop
+LibreOffice Draw
+Mengolah gambar, diagram alur, dan logo menggunakan Draw.
+libreoffice-draw
+
+10
+Program Menggambar
+libreoffice --draw %U
+2
+0
+libreoffice
+
+Office;FlowChart;2DGraphics;VectorGraphics
+Vector,Schema,Diagram,Layout,OpenDocument Graphics,Microsoft Publisher,Corel Draw,cdr,odg,svg
+-libreoffice-math.desktop
+LibreOffice Math
+Mengolah rumus ilmiah maupun persamaannya menggunakan Math.
+libreoffice-math
+
+10
+Penyunting Rumus
+libreoffice --math %U
+2
+0
+libreoffice
+
+Office;Spreadsheet;Science;Math
+Equation,OpenDocument Formula,Formula,odf,MathML
+-evince.desktop
+Penampil Dokumen
+Melihat dokumen multihalaman
+evince
+
+10
+
+evince %U
+6
+0
+evince
+
+GNOME;GTK;Office;Viewer;Graphics;2DGraphics;VectorGraphics
+pdf,ps,postscript,dvi,xps,djvu,tiff,dokumen,presentasi
+
++Internet
+Internet
+Program untuk mengakses internet seperti web dan email
+applications-internet
+lxde-network.directory
+4
+0
+-claws-mail.desktop
+Claws Mail
+Pembaca e-mail berbasis GTK+ yang cepat dan ringan
+mail
+
+10
+Pembaca E-mail
+claws-mail %u
+2
+0
+claws-mail
+
+Network;Email
+lightweight,fast,gui,extensible,plugin,pop,pop3,imap,imap4,nntp,news
+-dillo.desktop
+Dillo
+Lightweight browser
+dillo
+
+10
+Web Browser
+dillo
+4
+0
+dillo
+
+Application;Network
+
+-netsurf-gtk.desktop
+NetSurf Web Browser
+Browse the World Wide Web
+netsurf.png
+
+10
+Web Browser
+netsurf-gtk %u
+6
+0
+netsurf-gtk
+
+Network
+
+-chromium-browser.desktop
+Peramban Web Chromium
+Akses Internet
+chromium-browser
+
+11
+Peramban Web
+chromium-browser %U
+2
+0
+
+
+Network;WebBrowser
+
+-epiphany-newtab.desktop
+Peramban Web Epiphany
+Jelajahi web
+web-browser
+
+10
+Peramban Web
+epiphany-browser -n %U
+6
+0
+epiphany-browser
+
+Network;GNOME;GTK;WebBrowser
+web,peramban,internet
+-epiphany-browser.desktop
+Peramban Web Epiphany
+Jelajahi web
+web-browser
+
+10
+Peramban Web
+epiphany-browser %U
+6
+0
+epiphany-browser
+
+Network;GNOME;GTK;WebBrowser
+web,peramban,internet
+-org.gnome.Epiphany.desktop
+Web
+Jelajahi web
+web-browser
+
+10
+Peramban Web
+epiphany %U
+6
+0
+
+
+Network;GNOME;GTK;WebBrowser
+web,peramban,internet
+-epiphany.desktop
+Web
+Jelajahi web
+web-browser
+
+10
+Peramban Web
+epiphany %U
+6
+0
+
+
+Network;GNOME;GTK;WebBrowser
+web,peramban,internet
+-lxde-x-www-browser.desktop
+Web Browser
+
+applications-internet
+
+10
+X Web Browser
+/usr/bin/x-www-browser %u
+4
+0
+/usr/bin/x-www-browser
+
+GTK;WebBrowser;Network
+
+
++Multimedia
+Suara & Video
+Menu multimedia
+applications-multimedia
+lxde-audio-video.directory
+4
+0
+-mpv.desktop
+mpv Media Player
+Play movies and songs
+mpv
+
+10
+Multimedia player
+mpv --player-operation-mode=pseudo-gui -- %U
+4
+0
+mpv
+
+AudioVideo;Audio;Video;Player;TV
+mpv,media,player,video,audio,tv
+-qjackctl.desktop
+QjackCtl
+QjackCtl is a JACK Audio Connection Kit Qt GUI Interface
+qjackctl
+
+10
+JACK Control
+/usr/bin/qjackctl
+4
+0
+
+
+Audio;AudioVideo;Midi;X-Alsa;X-Jack;Qt
+audio,sound,jackd
+-SuperColliderIDE.desktop
+SuperCollider IDE
+
+sc_ide
+
+10
+SuperCollider IDE
+scide %f
+4
+0
+
+
+Application;Multimedia;Audio;AudioVideo
+
+-vlc.desktop
+VLC Media Player
+Multimedia player for audio and video files and streams
+vlc
+
+10
+Media player
+/usr/bin/vlc --started-from-file %U
+0
+0
+/usr/bin/vlc
+
+AudioVideo;Player;Recorder
+Player,Capture,DVD,Audio,Video,Server,Broadcast
+
++Graphics
+Grafis
+Aplikasi grafis
+applications-graphics
+lxde-graphics.directory
+4
+0
+-gpicview.desktop
+Penampil Citra
+Lihat gambar anda dengan mudah
+gpicview
+
+10
+Penampil Citra
+gpicview %f
+2
+0
+gpicview
+
+Graphics;Core;GTK;Viewer;RasterGraphics;2DGraphics;Photography
+
+-evince.desktop
+Penampil Dokumen
+Melihat dokumen multihalaman
+evince
+
+10
+
+evince %U
+6
+0
+evince
+
+GNOME;GTK;Office;Viewer;Graphics;2DGraphics;VectorGraphics
+pdf,ps,postscript,dvi,xps,djvu,tiff,dokumen,presentasi
+
++Games
+Permainan
+Permainan dan hiburan
+applications-games
+lxde-game.directory
+4
+0
+-minecraft-pi.desktop
+Minecraft Pi
+Fun with Blocks
+/usr/share/pixmaps/minecraft-pi.png
+
+10
+
+minecraft-pi
+2
+0
+minecraft-pi
+
+Application;Game
+
+
++Other
+Lainnya
+Aplikasi yang tidak termasuk dalam kategori lain
+applications-other
+lxde-other.directory
+4
+0
+-gcr-viewer.desktop
+Lihat berkas
+
+
+
+11
+
+/usr/bin/gcr-viewer
+4
+0
+
+
+
+
+-lxde-logout.desktop
+Logout
+Logout, shutdown or reboot
+gnome-logout
+
+10
+
+lxde-logout
+4
+0
+lxde-logout
+
+
+
+-rpw-lxpanel.desktop
+LXPanel
+
+
+
+11
+
+env GDK_BACKEND=x11 XDG_MENU_PREFIX=lxde-pi- XDG_DATA_DIRS=/usr/share/raspi-ui-overrides:/usr/share:var/lib/menu-xdg lxpanel -p LXDE-pi
+4
+0
+
+
+
+
+-mono-runtime-common.desktop
+Mono Runtime
+
+mono-runtime-common
+
+10
+
+mono
+4
+0
+mono
+
+
+
+-mono-runtime-terminal.desktop
+Mono Runtime (Terminal)
+
+mono-runtime-common
+
+10
+
+mono
+5
+0
+mono
+
+
+
+-rpw-mutter.desktop
+Mutter
+
+
+
+11
+
+mutter
+4
+0
+
+
+
+
+-mutter.desktop
+Mutter
+
+
+
+11
+
+mutter
+4
+0
+
+
+
+
+-openbox.desktop
+Openbox
+
+openbox
+
+11
+
+openbox
+4
+0
+
+
+
+wm,windowmanager,window,manager,gnome
+-rpw-pcmanfm.desktop
+PCManFM
+
+
+
+11
+
+env GDK_BACKEND=x11 pcmanfm --desktop --profile LXDE-pi
+4
+0
+
+
+
+
+-gcr-prompter.desktop
+Sapaan Akses
+Buka kunci akses ke sandi dan rahasia lain
+security-medium
+
+11
+
+/usr/libexec/gcr-prompter
+4
+0
+
+
+
+
+-lxde-screenlock.desktop
+ScreenLock
+Lock your screen
+system-lock-screen
+
+11
+
+lxlock
+4
+0
+lxlock
+
+
+
+-realvnc-vncserverui-user.desktop
+VNC Server
+
+/usr/share/icons/hicolor/48x48/apps/vncserver48x48.png
+
+11
+VNC Server
+vncserver-x11 -showstatus
+4
+0
+
+
+
+
+-realvnc-vncserverui-service.desktop
+VNC Server
+
+/usr/share/icons/hicolor/48x48/apps/vncserver48x48.png
+
+11
+VNC Server
+
+4
+0
+
+
+
+
+-realvnc-vncserverui-virtual.desktop
+VNC Server
+
+/usr/share/icons/hicolor/48x48/apps/vncserver48x48.png
+
+11
+VNC Server
+vncserver-x11 -virtual -showexistingstatus
+4
+0
+
+
+
+
+-realvnc-vnclicensewiz.desktop
+VNC Server - Licensing
+
+/usr/share/icons/hicolor/48x48/apps/vncserver48x48.png
+
+11
+VNC Server
+
+4
+0
+
+
+
+
+-realvnc-vncviewer-scheme.desktop
+VNC Viewer URL Handler
+
+
+
+11
+
+vncviewer -uri %u
+4
+0
+
+
+
+
+
++System
+Peralatan Sistem
+Konfigurasi sistem dan pemantauan
+applications-system
+lxde-system-tools.directory
+4
+0
+-htop.desktop
+Htop
+Show System Processes
+htop
+
+10
+Process Viewer
+htop
+5
+0
+
+
+ConsoleOnly;System
+system,process,task
+-pi-gpk-log.desktop
+Log Paket
+Tilik tugas manajemen paket yang lalu
+gpk-log
+
+11
+
+pi-gpk-log
+6
+0
+
+
+GNOME;GTK;System
+
+-pi-gpk-dbus-service.desktop
+Pasang Perangkat Lunak
+Pasang perangkat lunak yang dipilih pada sistem
+system-software-install
+
+11
+
+pi-gpk-dbus-service
+6
+0
+
+
+System
+
+-pi-gpk-install-local-file.desktop
+Pemasangan Paket
+Pasang paket yang dipilih pada sistem
+system-software-install
+
+11
+
+pi-gpk-install-local-file %F
+6
+0
+
+
+System
+
+-pi-gpk-update-viewer.desktop
+Pemutakhir Paket
+Mutakhirkan perangkat lunak yang terpasang pada sistem
+system-software-update
+
+11
+
+pi-gpk-update-viewer
+6
+-5
+
+
+GNOME;GTK;System
+
+-hplj1020.desktop
+Reactivate HP LaserJet 1018/1020 after reloading paper
+Click the button in this program when your printer ran out of paper and you have refilled the paper
+/usr/share/pixmaps/hplj1020_icon.png
+
+10
+
+/usr/share/foo2zjs/hplj10xx_gui.tcl
+6
+0
+
+
+System
+
+-lxde-x-terminal-emulator.desktop
+Terminal emulator
+Terminal Emulator
+terminal
+
+10
+Terminal Emulator
+/usr/bin/x-terminal-emulator
+6
+0
+/usr/bin/x-terminal-emulator
+
+System;TerminalEmulator;Utility
+
+
++Accessories
+Aksesoris
+Aksesoris desktop
+applications-accessories
+lxde-utility.directory
+4
+0
+-galculator.desktop
+Calculator
+Perform simple and scientific calculations
+galculator
+
+10
+
+galculator
+2
+0
+galculator
+
+Utility
+
+-rpi-imager.desktop
+Imager
+Raspberry Pi Imager
+rpi-imager
+
+11
+
+rpi-imager
+0
+0
+
+
+Utility
+
+-lxterminal.desktop
+LXTerminal
+Gunakan perintah baris
+lxterminal
+
+10
+Terminal
+lxterminal
+2
+0
+lxterminal
+
+GTK;Utility;TerminalEmulator
+
+-pcmanfm.desktop
+Manajer Berkas
+Ramban sistem berkas dan kelola berkasnya
+system-file-manager
+
+10
+Manajer Berkas
+pcmanfm %U
+2
+0
+pcmanfm
+
+FileManager;Utility;Core;GTK
+
+-lxtask.desktop
+Manajer Tugas
+Mengelola proses yang berjalan
+utilities-system-monitor
+
+10
+Pengelola proses
+lxtask
+2
+0
+lxtask
+
+GTK;Utility;Monitor
+
+-qpdfview.desktop
+PDF Viewer
+Viewer for PDF files
+xpdf
+
+11
+PDF Viewer
+qpdfview --unique %F
+0
+0
+qpdfview
+
+Viewer;Utility
+viewer,document,presentation,pdf,ps,djvu
+-xpdf.desktop
+PDF Viewer
+Viewer for PDF files
+xpdf
+
+10
+PDF viewer
+xpdf
+0
+0
+xpdf
+
+Viewer;Utility
+
+-agnostics.desktop
+Raspberry Pi Diagnostics
+Test the Raspberry Pi hardware
+rpi
+
+11
+Raspberry Pi Diagnostics
+agnostics
+2
+0
+
+
+Utility
+
+-gksu.desktop
+Root Terminal
+Opens a terminal as the root user, using gksu to ask for the password
+gksu-root-terminal
+
+10
+
+gksu /usr/bin/x-terminal-emulator
+6
+0
+gksu
+
+GTK;Utility;TerminalEmulator
+
+-piclone.desktop
+SD Card Copier
+Make a copy of the Raspbian SD card
+media-removable
+
+11
+SD Card Copier
+env SUDO_ASKPASS=/usr/lib/piclone/pwdpic.sh sudo -AE dbus-launch piclone
+2
+0
+
+
+Utility
+
+-leafpad.desktop
+Text Editor
+Penyunting teks sederhana
+accessories-text-editor
+
+10
+
+leafpad %f
+0
+0
+leafpad
+
+GTK;Utility;TextEditor
+
+-mousepad.desktop
+Text Editor
+Penyunting teks sederhana
+accessories-text-editor
+
+10
+
+mousepad %F
+2
+0
+mousepad
+
+GTK;Utility;TextEditor
+
+-vim.desktop
+Vim
+Edit file teks
+gvim
+
+11
+Text Editor
+vim %F
+1
+0
+vim
+
+Utility;TextEditor
+Text,editor
+-xarchiver.desktop
+Xarchiver
+Manajer arsip khusus GTK+2
+xarchiver.png
+
+10
+Manajer arsip
+xarchiver
+2
+0
+xarchiver
+
+GTK;Archiving;Utility
+
+
++Universal Access
+Akses Universal
+Penataan Akses Universal
+preferences-desktop-accessibility
+lxde-utility-accessibility.directory
+4
+4
+
+-
++Help
+Help
+Reference material
+gnome-help
+lxde-help.directory
+3
+0
+-rp-bookshelf.desktop
+Bookshelf
+Download and read Raspberry Pi Press publications
+bookshelf
+
+11
+Bookshelf
+rp-bookshelf
+2
+0
+
+
+Help
+
+-debian-reference-common.desktop
+Debian Reference
+Debian Reference Guide
+debian-reference.png
+
+10
+
+debian-reference
+0
+0
+debian-reference
+
+Help
+
+-raspi_getstart.desktop
+Get Started
+
+rpi
+
+10
+
+x-www-browser https://rpf.io/raspbian-getstarted
+2
+0
+/usr/bin/x-www-browser
+
+Help
+
+-help.desktop
+Help
+Link to help pages
+rpi
+
+10
+
+x-www-browser https://rpf.io/raspbian-help
+0
+0
+/usr/bin/x-www-browser
+
+Help
+
+-raspi_resources.desktop
+Projects
+
+rpi
+
+10
+
+x-www-browser https://rpf.io/raspbian-projects
+2
+0
+/usr/bin/x-www-browser
+
+Help
+
+
+-
++DesktopSettings
+Preferensi
+Preferensi pribadi
+preferences-desktop
+lxde-settings.directory
+4
+0
+-pi-packages.desktop
+Add / Remove Software
+Tambah atau hapus perangkat lunak yang terpasang pada sistem
+system-software-install
+
+11
+
+pi-packages
+2
+-5
+
+
+GNOME;GTK;System;Settings;PackageManager
+Pemutakhiran,Peningkatan,Sumber,Repositori,Preferensi,Pasang,Toko
+-lxsession-default-apps.desktop
+Aplikasi baku bagi LXSession
+Ubah aplikasi baku pada LXDE
+xfwm4
+
+10
+
+lxsession-default-apps
+4
+-15
+
+
+GTK;Settings;DesktopSettings;X-LXDE-Settings
+
+-pipanel.desktop
+Appearance Settings
+Configure the appearance of the desktop and windows
+preferences-desktop-theme
+
+11
+Appearance Settings
+env SUDO_ASKPASS=/usr/lib/pipanel/pwdpip.sh pipanel
+2
+0
+
+
+Settings;DesktopSettings;GTK;X-LXDE-Settings
+
+-lxsession-edit.desktop
+Desktop Session Settings
+Manage applications loaded in desktop session
+xfwm4
+
+10
+
+lxsession-edit
+4
+-15
+lxsession-edit
+
+Settings;DesktopSettings;X-LXDE-Settings
+
+-rc_gui.desktop
+Konfigurasi Raspberry Pi
+Konfigurasikan sistem Raspberry Pi
+rpi
+
+11
+Konfigurasi Raspberry Pi
+env SUDO_ASKPASS=/usr/lib/rc-gui/pwdrcg.sh sudo -AE rc_gui
+2
+0
+
+
+Settings;DesktopSettings;GTK;X-LXDE-Settings
+
+-lxkeymap.desktop
+Lxkeymap
+Lxkeymap application
+/usr/share/lxkeymap/media/icon.png
+
+10
+
+lxkeymap
+4
+0
+
+
+Settings
+
+-alacarte.desktop
+Main Menu Editor
+Tambah atau hapus aplikasi dari menu utama
+alacarte
+
+11
+
+alacarte
+2
+-5
+
+
+GNOME;Settings;DesktopSettings
+
+-obconf.desktop
+Openbox Configuration Manager
+Tweak settings for Openbox
+obconf
+
+10
+Configuration Manager
+obconf %f
+6
+0
+
+
+Settings;DesktopSettings;GTK
+openbox,settings,configurations,themes
+-openjdk-7-policytool.desktop
+OpenJDK Java 7 Policy Tool
+OpenJDK Java 7 Policy Tool
+openjdk-7
+
+10
+
+/usr/bin/policytool
+4
+0
+
+
+Settings
+
+-openjdk-8-policytool.desktop
+OpenJDK Java 8 Policy Tool
+OpenJDK Java 8 Policy Tool
+openjdk-8
+
+10
+
+/usr/bin/policytool
+4
+0
+
+
+Settings
+java,security,policytool
+-lxinput.desktop
+Papan Tik dan Tetikus
+Tata papan tik, tetikus, dan perangkat masukan lain
+preferences-desktop-peripherals
+
+11
+
+lxinput
+2
+-47
+lxinput
+
+GTK;Settings;HardwareSettings;X-LXDE-Settings
+
+-system-config-printer.desktop
+Pengaturan Cetak
+Konfigurasi pencetak
+printer
+
+11
+Pengaturan Cetak
+system-config-printer
+2
+0
+
+
+System;Settings;HardwareSettings;Printing;GTK
+
+-lxrandr.desktop
+Pengaturan Monitor
+Ubah resolusi layar dan tata monitor eksternal
+display
+
+10
+
+lxrandr
+4
+0
+
+
+GTK;Settings;HardwareSettings
+
+-pcmanfm-desktop-pref.desktop
+Preferensi Desktop
+Ubah gambar latar desktop dan perilaku dari manajer desktop
+user-desktop
+
+10
+
+pcmanfm --desktop-pref
+6
+-15
+
+
+Settings;GTK;DesktopSettings;X-LXDE-Settings
+
+-qt5ct.desktop
+Qt5 Settings
+Qt5 Configuration Tool
+preferences-desktop-theme
+
+10
+
+qt5ct
+4
+0
+
+
+Settings;DesktopSettings;Qt
+settings,desktop,qt,qtsettings,qt5
+-rp-prefapps.desktop
+Recommended Software
+Install additional programs recommended for use on the Pi
+rpi
+
+11
+Recommended Software
+env SUDO_ASKPASS=/usr/lib/rp-prefapps/pwdrpp.sh sudo -AE rp-prefapps
+2
+0
+
+
+Settings;DesktopSettings;GTK;X-LXDE-Settings
+
+-arandr.desktop
+Screen Configuration
+
+computer
+
+8
+Screen Settings
+env SUDO_ASKPASS=/usr/lib/arandr/pwdarandr.sh sudo -AE arandr
+2
+0
+
+
+Settings;HardwareSettings
+
+-lxhotkey-gtk.desktop
+Setup Hot Keys
+View and change Window Manager global shortcuts
+preferences-desktop-keyboard
+
+10
+
+lxhotkey --gui=gtk
+6
+-47
+
+
+DesktopSettings;Settings;Core;GTK
+hotkey,shortcut,system,settings
+-pi-gpk-prefs.desktop
+Sumber Paket
+Aktifkan atau nonaktifkan repositori paket
+gpk-prefs
+
+11
+
+pi-gpk-prefs
+6
+-5
+
+
+Settings;X-GNOME-SystemSettings
+
+-lxappearance.desktop
+Ubah Tampilan dan Rasa
+Ubah tampilan dan rasa dari desktop dan aplikasi Anda
+preferences-desktop-theme
+
+10
+Ubah Tampilan dan Rasa
+lxappearance
+6
+-11
+lxappearance
+
+Settings;DesktopSettings;GTK;X-LXDE-Settings
+
+-wpa_gui.desktop
+WiFi Configuration
+WiFi configuration utility
+wpa_gui
+
+10
+wpa_supplicant user interface
+/usr/sbin/wpa_gui
+4
+0
+/usr/sbin/wpa_gui
+
+Settings
+
+
+
