@@ -10,10 +10,10 @@ setelah semua di enable
 sudo apt-get install -y python3-picamera python3-pip ffmpeg ufw i2c-tools python3-smbus python3-pip
 ```
 
-setelah keperluan apt di install lalu keperlian pip
+setelah keperluan apt di install lalu keperluan pip
 
 ```python
-sudo pip3 install adafruit-blinka ****adafruit-circuitpython-mlx90614 **smbus2 mlx90614**
+sudo pip3 install adafruit-blinka adafruit-circuitpython-mlx90614 smbus2 mlx90614 lsof
 ```
 
 lalu enable firewall
