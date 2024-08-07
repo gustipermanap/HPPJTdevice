@@ -23,8 +23,8 @@ temp_sensor = MLX90614(bus, address=0x5a)
 help_button = Button(24)
 
 
-ws = create_connection(f"ws://203.194.112.131:8000/ws/helmet/{IDENTIFIER}/")
-c_ws = create_connection(f"ws://203.194.112.131:8000/ws/camera/{IDENTIFIER}/send/")
+ws = create_connection(f"ws://203.194.112.131/ws/helmet/{IDENTIFIER}/")
+c_ws = create_connection(f"ws://203.194.112.131/ws/camera/{IDENTIFIER}/send/")
 
 class StreamingOutput(object):
   def __init__(self):
